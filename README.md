@@ -1,5 +1,5 @@
 # Sweet-Revenge
 
-Itch.io Link: https://gabrielhcassiano.itch.io/sweet-revenge
+Itch.io link: https://gabrielhcassiano.itch.io/sweet-revenge
 
-GitLab Project Link: https://gitlab.com/Gabriel-H/SweetRevenge
+GitLab project link: https://gitlab.com/Gabriel-H/SweetRevenge
