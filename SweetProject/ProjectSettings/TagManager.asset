@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Inimigo
+  - Invisible
+  - Game
+  - Cruz
+  - Vitima
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Inimigo
+  - Box
+  - Door
+  - Item
+  - Hip
+  - Player
+  - Mapa
+  - back
+  - luz
+  - vitima
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3748635221
+    locked: 0
+  - name: Mapa
+    uniqueID: 2944880661
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2976125311
+    locked: 0
+  - name: Player
+    uniqueID: 4124311029
+    locked: 0
+  - name: cam
+    uniqueID: 3259282967
+    locked: 0
+  - name: UI
+    uniqueID: 3966963767
+    locked: 0
